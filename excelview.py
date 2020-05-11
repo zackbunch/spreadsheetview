@@ -4,7 +4,7 @@ from operator import itemgetter #extracts elements of tuplules from a list of tu
 
 #get image from the user
 # input_img = input('Enter image name: ')
-opened_image = Image.open('logo.png')
+opened_image = Image.open('dev.jpg')
 
 #store the size of the image as a tuplules
 size = opened_image.size
